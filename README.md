@@ -14,7 +14,7 @@ sudo pip install keras==2.1.2
 
 Run generator as:
 
-python generate.py --seed "<your string seed>"
+python generate.py --seed "your string seed"
 
 Parameters of script are:
 
